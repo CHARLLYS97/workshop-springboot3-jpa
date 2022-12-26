@@ -1,10 +1,12 @@
-# Web services API Rest
+# WEB SERVICES API REST
 
 ## Modelo de domínio
 ![Diagrama de Classes](assets/img/diagram.png)
 
-> Trata-se de um projeto Web services com Spring Boot com intuito de simular compras online!
+> Workshop SpringBoot é uma aplicação back-end construída durante o curso [Java COMPLETO Programação Orientada a Objetos +Projetos](https://www.udemy.com/course/java-curso-completo "Site do Curso").
 
+A aplicação consiste em uma API de serviços web com integração ao banco de dados Postgresql. Na aplicação podemos cadastrar, remover e atualizar produtos, usuários e os pedidos feitos pelos clientes.
+ 
 ## Diagrama de objetos
 ![Diagrama de Objetos](assets/img/object_diagram.png)
 
@@ -23,6 +25,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - [x] Object Relational Mapping (ORM)
 - [x] API Rest
 - [x] Banco de dados H2
+- [x] PostgreSQL
+- [x] Heroku
 
 ## Estrutura [Banco de Dados H2](https://en.wikipedia.org/wiki/H2_(DBMS))
 
@@ -35,16 +39,20 @@ Banco de dados totalmente contruído com ORM
 
 ### Imagens APIs Rest no [Postman](https://en.wikipedia.org/wiki/Postman_(software))
 #### Post
-![Post](assets/img/api_post.png)
+![POST](assets/img/api_post.png)
 
 #### Get
-![Get](assets/img/api_get.png)
+![GET](assets/img/api_get.png)
 
 #### Put
-![Put](assets/img/api_put.png)
+![PUT](assets/img/api_put.png)
 
 #### Delete
-![Delete](assets/img/api_delete.png)
+![DELETE](assets/img/api_delete.png)
+
+#### PostgreSQL
+![PostgreSQL](assets/img/Script.sql.png)
+
 
 Para instalar o projeto, siga estas etapas:
 
