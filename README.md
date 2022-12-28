@@ -26,6 +26,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - [x] API Rest
 - [x] Banco de dados H2
 - [x] PostgreSQL
+- [x] Postman
 - [x] Heroku
 
 ## Estrutura [Banco de Dados H2](https://en.wikipedia.org/wiki/H2_(DBMS))
